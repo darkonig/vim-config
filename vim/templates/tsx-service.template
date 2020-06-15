@@ -1,0 +1,9 @@
+import axois from 'axios';
+
+class {{FILE}} {
+  constructor(){}
+
+  {{CURSOR}}
+}
+
+export default {{FILE}};
